@@ -1,6 +1,6 @@
 {
   "name": "remove-extra-modules",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Remove extra modules that exist in parent tree",
   "main": "index.js",
   "bin": {
